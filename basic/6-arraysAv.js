@@ -43,6 +43,7 @@ inventors.some(inventor => inventor.year === 1858);
 printInventors(inventors.sort((a,b) => (a.year < b.year) ? 1: -1));
 
 // Ejercicio, revisar como funciona el .reduce
+// UN CAMBIO EN EL ARCHIVO
 
 
 
